@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.idea/
+.idea/
+/node_modules/
+/target/
+/build/
+*.log
+*.tmp
+*.temp
